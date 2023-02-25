@@ -1,3 +1,4 @@
+![ScreenShot](./screenshot.png)
 The Bankist Bank App is a simple banking application that allows users to perform various operations like logging in, transferring money, requesting loans, and closing their accounts.
 
 Let's start with a breakdown of the data structure used in the application:
